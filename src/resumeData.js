@@ -83,15 +83,9 @@ let resumeData = {
     {
       name: "Moonstone Tarot",
       description:
-        "A Tarot reading application built in React that provides the user with a three card pull, providing insite into their past, present and future",
-      imgurl: "images/portfolio/tarot.jpg",
+        "A Tarot reading application built in React that provides the user with a three randomized tarot cards.",
+      imgurl: "./images/tarot.png",
       url: "https://tarot-virid.vercel.app/",
-    },
-    {
-      name: "Grounded",
-      description:
-        "A collaboratively built C# application that allows the user to select from a list of emotions and provides calming and grounding excercises based on that emotion.",
-      imgurl: "images/portfolio/grounded.jpg",
     },
   ],
 };
